@@ -38,21 +38,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Appex Now – NetSol Technologies (2024 – Present)
+### 🔹 Appex Now Appex Now - NetSol Technologies (2024 – Present)
+### 🔹 <img src="https://marketplace-mfe.appexnow.com/8ab37a8411dcf8660721.svg" alt="Appex Now Logo" width="75" style="vertical-align:middle; margin-right:8px;" /> [ – NetSol Technologies](https://www.appexnow.com/) (2024 – Present)
 > An adaptive platform for the global asset finance and leasing industry.
 - 🔧 Led the Unity development team and contributed to architecture, infrastructure, and back-end design.
 - 🧠 Built microservices using FastAPI, SQLAlchemy, and PostgreSQL.
 - ☁️ Worked on multi-cloud deployment pipelines with AWS and Azure (Lambda, ECS, Azure DevOps).
 - ✅ Delivered high-reliability services with TDD and integration testing practices.
 
-### 🔹 HAWKEYE ERP – Vehicle Dealership Platform
-> Comprehensive ERP for the automotive industry (Sales, Services, CRM, HR, Finance).
-- 📌 Role: Lead Developer and Core Backend Architect.
-- ⚙️ Implemented domain-driven design and TDD in Python (Flask) with SQLAlchemy.
-- 🧪 Integrated CI/CD via Jenkins, and managed deployments to AWS EC2 and S3.
-- 📈 Improved efficiency across modules, reducing bug rates and boosting velocity by 30%.
-
-### 🔹 BBOXX – Smart Energy Microservices
+### 🔹 <img src="https://www.bboxx.com/wp-content/uploads/Logo-Colour.svg" alt="BBOXX Logo" width="75" style="vertical-align:middle; margin-right:8px;" /> [ – Smart Energy Microservices](https://www.bboxx.com/)
 > IoT & energy platform managing smart grids in developing countries.
 - 🚀 Refactored legacy systems to microservices for better scalability and efficiency.
 - 🔄 Created seamless integrations using FastAPI, SQLAlchemy, and AWS SQS/SNS.
@@ -70,6 +64,12 @@
 - 🖼️ Built responsive React components for multi-brand CMS portals.
 - 🔍 Managed deployment pipelines on Netlify and CI environments via GitHub Actions.
 
+### 🔹 HAWKEYE ERP – Vehicle Dealership Platform
+> Comprehensive ERP for the automotive industry (Sales, Services, CRM, HR, Finance).
+- 📌 Role: Lead Developer and Core Backend Architect.
+- ⚙️ Implemented domain-driven design and TDD in Python (Flask) with SQLAlchemy.
+- 🧪 Integrated CI/CD via Jenkins, and managed deployments to AWS EC2 and S3.
+- 📈 Improved efficiency across modules, reducing bug rates and boosting velocity by 30%.
 ---
 
 ## 📘 Achievements
