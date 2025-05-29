@@ -15,7 +15,7 @@
 
 ---
 
-🔧 I’m a results-driven engineer with 9+ years of experience building production-grade applications using **Python**, **FastAPI**, **Django**, and scalable cloud platforms. My career spans ERP systems, FinTech platforms, e-commerce integrations, and green energy services. I specialize in building microservices architectures, cloud-native apps, and DevOps pipelines on AWS and Azure.
+🔧 I’m a results-driven engineer with 9+ years of experience building production-grade applications using **Python**, **FastAPI**, **Flask**, **Django**, and scalable cloud platforms. My career spans ERP systems, FinTech platforms, e-commerce integrations, and green energy services. I specialize in building microservices architectures, cloud-native apps, and DevOps pipelines on AWS and Azure.
 
 ---
 
