@@ -86,12 +86,6 @@
 
 ---
 
-## 🐍 GitHub Contributions Snake
-
-![Snake animation](https://github.com/Abbasi393/Abbasi393/blob/output/github-contribution-grid-snake.svg)
-
----
-
 > “Code with purpose. Build for people. Lead with impact.”
 
 ⭐️ _If you like what I do, consider following me on GitHub!_
