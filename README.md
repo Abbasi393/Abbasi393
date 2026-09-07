@@ -36,6 +36,28 @@
 
 ---
 
+## 📊 Professional GitLab Activity
+
+<p align="center">
+  <a href="https://git.zensiontec.com/aabbasi" target="_blank">
+    <img
+      src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.svg"
+      alt="GitLab"
+      width="50"
+    />
+  </a>
+  <br>
+  <strong>Professional GitLab Activity</strong>
+</p>
+
+<p align="center">
+  My professional development work is maintained on GitLab.
+  <br>
+  <a href="https://git.zensiontec.com/aabbasi">
+    View my GitLab profile →
+  </a>
+</p>
+
 ## 🚀 Featured Projects
 
 ### 🔹 Appex Now Appex Now - NetSol Technologies (2024 – Present)
