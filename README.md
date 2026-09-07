@@ -24,6 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-339933?logo=nodejs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
